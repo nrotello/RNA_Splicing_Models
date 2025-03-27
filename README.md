@@ -1,5 +1,5 @@
 # RNA_Splicing
-Models and analyses related to RNA splicing performed in Chris Burge's lab at MIT.
+Models and analyses related to RNA splicing performed in Chris Burge's lab at MIT. I am in the process of uploading everything.
 
 Abbreviations: 3SS = 3' Splice Site, PPT = Polypyrimidine Tract
 
