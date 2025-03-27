@@ -1,5 +1,5 @@
 # RNA_Splicing
-Models and analyses involving RNA splicing performed at MIT.
+RNA splicing models and analyses performed at MIT. 
 
 Abbreviations: 3SS = 3' Splice Site, PPT = Polypyrimidine Tract
 
