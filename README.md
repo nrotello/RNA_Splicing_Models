@@ -1,7 +1,7 @@
 # RNA_Splicing_Models
 RNA splicing models and analyses performed at MIT.
 
-The purpose of this repo is to showcase a subset of my work.
+The purpose of this repo is to showcase the subset of my work involving computational biology.
 
 Abbreviations: 3SS = 3' Splice Site, PPT = Polypyrimidine Tract
 
