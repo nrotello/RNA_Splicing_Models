@@ -1,4 +1,4 @@
-# RNA_Splicing
+# RNA_Splicing_Models
 RNA splicing models and analyses performed at MIT.
 
 The purpose of this repo is to showcase a subset of my work.
