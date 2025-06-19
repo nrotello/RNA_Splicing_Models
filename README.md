@@ -13,3 +13,5 @@ Abbreviations: 3SS = 3' Splice Site, PPT = Polypyrimidine Tract
 
   - CAM_SS_Model is a splice site scoring model that accounts for long-range nucleotide dependencies. I coded it in C++ as well to test performance. Original idea from Chris Burge, MIT.
 
+  - Intronic Conservation is the correlation between splicing factor activity and evolutionary sequence conservation. This is my thesis work.
+
